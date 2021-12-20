@@ -18,7 +18,26 @@
 ## Overview
 
 Describe the purpose of your project. Add additional sections as necessary to help collaborators and potential collaborators understand and use your project. <to be filled in by Saugat>
-  
+
+## Dependencies
+
+The required Python 3 dependencies necessary for this jupyter notebook include the following:
+
+* Pandas
+* Numpy
+
+The rest of the dependencies come installed with Python 3. Feel free to download & install [Anaconda](https://www.anaconda.com/) and run Jupyter Notebook from there.
+
+## Getting Started
+
+### Cloning the Repository
+
+The repository can either be downloaded from GitHub or cloned using the following command:
+
+`$ git clone https://github.com/CDCgov/Syphilis_Record_Search_and_Review_Algorithm.git`
+
+<instructions to be filled out>
+
 ## Public Domain Standard Notice
 This repository constitutes a work of the United States Government and is not
 subject to domestic copyright protection under 17 USC § 105. This repository is in
