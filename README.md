@@ -25,6 +25,7 @@ The required Python 3 dependencies necessary for this jupyter notebook include t
 
 * Pandas
 * Numpy
+* Datetime
 
 The rest of the dependencies come installed with Python 3. Feel free to download & install [Anaconda](https://www.anaconda.com/) and run Jupyter Notebook from there.
 
@@ -36,7 +37,9 @@ The repository can either be downloaded from GitHub or cloned using the followin
 
 `$ git clone https://github.com/CDCgov/Syphilis_Record_Search_and_Review_Algorithm.git`
 
-<instructions to be filled out>
+### Running the Notebook
+
+Launch Jupyter Notebook in Anaconda or a Python 3 installation of your choice. Follow the steps closely as there are some steps required for you to ensure the data meets the correct format. See the notebook for specific details.
 
 ## Public Domain Standard Notice
 This repository constitutes a work of the United States Government and is not
