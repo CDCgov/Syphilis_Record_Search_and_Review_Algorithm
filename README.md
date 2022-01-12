@@ -2,6 +2,8 @@
 
 **General disclaimer** This repository was created for use by CDC programs to collaborate on public health related projects in support of the [CDC mission](https://www.cdc.gov/about/organization/mission.htm).  GitHub is not hosted by the CDC, but is a third party website used by CDC and its partners to share information and collaborate on software. CDC use of GitHub does not imply an endorsement of any one particular service, product, or enterprise. 
 
+
+
 ## Overview
 
 While health departments began conducting syphilis surveillance in the 1930s (consistently compiled national data are available dating back to 1941), in an effort to identify syphilis cases that might not be otherwise reported by clinicians, laboratories have been madated to report serologies to health departments since 1962. Historical test results are routinely maintained on file to aid with interpretation of any subsequent tests. Health departments subsequently investigate reported serologies to determine if they represent a new infection, reinfection, or treatment failure. Ideally, every new reactive serology should be investigated but because of the overwhelming volume serologies reported and limited resources avaibale at public health agencies, not all serologies are investigated. Instead, reported serologies were administratively closed using "reactor grids"  which prioritize serologies for further investigation based on patient's age, sex, test type, and test titer reported on the serology.
