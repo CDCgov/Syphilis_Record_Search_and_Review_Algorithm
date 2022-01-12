@@ -13,13 +13,13 @@ Reactor grids, however, are widely acknowledge to be unreliable and have shown t
 The goal of this GitHub repository is to serve as the one-stop location for public health agencies and technology vendors to test and implement this algorithm. Please contact Saugat Karki (SKarki@cdc.gov) for further discussion and any technical assistance from the Centers for Disease Control and Prevention. 
 ## Dependencies
 
-The required Python 3 dependencies necessary for this Jupyter Notebook include the following:
+There are 3 Python libraries necessary for this Jupyter Notebook include the following:
 
 * Pandas
 * Numpy
 * Datetime
 
-The rest of the dependencies come installed with Python 3.
+These libraries are called in the Python Notebook. The rest of the dependencies come installed with Python 3.
 
 ## Getting Started
 
