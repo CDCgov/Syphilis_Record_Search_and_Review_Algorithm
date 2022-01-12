@@ -76,7 +76,6 @@ and [Code of Conduct](https://github.com/CDCgov/template/blob/master/code-of-con
 For more information about CDC's privacy policy, please visit [http://www.cdc.gov/other/privacy.html](https://www.cdc.gov/other/privacy.html).
 
 ## Contributing Standard Notice
-This repository is the final version and as such any forks/pull requests will not be accepted.
 Please contact SKarki@cdc.gov if you would like to suggest any changes. 
 
 All comments, messages, pull requests, and other submissions received through
