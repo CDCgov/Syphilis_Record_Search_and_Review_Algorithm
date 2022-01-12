@@ -31,7 +31,7 @@ The repository can either be downloaded from GitHub or cloned using the followin
 
 ### Running the Notebook
 
-Launch Jupyter Notebook in Anaconda or a Python 3 installation of your choice. Kindly follow the steps written in the Jupyter Notebook closely as there are some steps required to ensure that the data is in the correct format. See the notebook for specific details. Any initial errors would most likely result due to the formatting requirements.
+Launch Jupyter Notebook (from the 'Notebooks' folder in the repository) in Anaconda or a Python 3 installation of your choice. Kindly follow the steps written in the Jupyter Notebook closely as there are some steps required to ensure that the data is in the correct format. See the notebook for specific details. Any initial errors would most likely result due to the formatting requirements.
 
 ## Related documents
 
