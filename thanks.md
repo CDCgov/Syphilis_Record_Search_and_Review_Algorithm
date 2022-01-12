@@ -1,7 +1,7 @@
 # Thanks and Acknowledgements
-Public health is a team sport, we have grateful to the contribution of the all the team mates.
+Public health is a team sport, we are grateful to the contribution of the all the team mates.
 
-The algorithm was develoved by:
+The algorithm was developed by:
   * Saugat Karki, MD, MS
   * Tom Peterman, MD, MSc
   * Kimberly Johnson, MS
