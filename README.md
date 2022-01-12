@@ -6,6 +6,8 @@
 
 Describe the purpose of your project. Add additional sections as necessary to help collaborators and potential collaborators understand and use your project. <to be filled in by Saugat>
 
+![algorithm image](https://github.com/CDCgov/Syphilis_Record_Search_and_Review_Algorithm/blob/master/algorithm_manuscript_revised.png)
+
 ## Dependencies
 
 The required Python 3 dependencies necessary for this jupyter notebook include the following:
