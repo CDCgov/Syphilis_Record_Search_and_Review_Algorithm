@@ -2,7 +2,7 @@
 Public health is a team sport, we have grateful to the contribution of the following team mates.
 
 The algorithm was develoved by:
-  -Saugat Karki, MD, MS
+  * Saugat Karki, MD, MS
   -Tom Peterman, MD, MSc
   -Kimberly Johnson, MS
   -Robin Hennessy, MPH
