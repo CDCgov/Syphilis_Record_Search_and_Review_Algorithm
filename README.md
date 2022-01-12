@@ -13,13 +13,13 @@ Reactor grids, however, are widely acknowledge to be unreliable and have shown t
 The goal of this GitHub repository is to serve as the one-stop location for public health agencies and technology vendors to test and implement this algorithm. Please contact Saugat Karki (SKarki@cdc.gov) for further discussion and any technical assistance from the Centers for Disease Control and Prevention. 
 ## Dependencies
 
-The required Python 3 dependencies necessary for this jupyter notebook include the following:
+The required Python 3 dependencies necessary for this Jupyter Notebook include the following:
 
 * Pandas
 * Numpy
 * Datetime
 
-The rest of the dependencies come installed with Python 3. Feel free to download & install [Anaconda](https://www.anaconda.com/) and run Jupyter Notebook from there.
+The rest of the dependencies come installed with Python 3.
 
 ## Getting Started
 
@@ -31,7 +31,7 @@ The repository can either be downloaded from GitHub or cloned using the followin
 
 ### Running the Notebook
 
-Launch Jupyter Notebook in Anaconda or a Python 3 installation of your choice. Follow the steps closely as there are some steps required for you to ensure the data meets the correct format. See the notebook for specific details.
+Launch Jupyter Notebook in Anaconda or a Python 3 installation of your choice. Kindly follow the steps written in the Jupyter Notebook closely as there are some steps required to ensure that the data is in the correct format. See the notebook for specific details. Any initial errors would most likely result due to the formatting requirements.
 
 ## Related documents
 
@@ -77,6 +77,7 @@ For more information about CDC's privacy policy, please visit [http://www.cdc.go
 
 ## Contributing Standard Notice
 This repository is the final version and as such any forks/pull requests will not be accepted.
+Please contact SKarki@cdc.gov if you would like to suggest any changes. 
 
 All comments, messages, pull requests, and other submissions received through
 CDC including this GitHub page may be subject to applicable federal law, including but not limited to the Federal Records Act, and may be archived. Learn more at [http://www.cdc.gov/other/privacy.html](http://www.cdc.gov/other/privacy.html).
