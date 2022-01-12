@@ -1,19 +1,19 @@
 # Thanks and Acknowledgements
-Public health is a team sport, we have grateful to the contribution of the following team mates.
+Public health is a team sport, we have grateful to the contribution of the all the team mates.
 
 The algorithm was develoved by:
   * Saugat Karki, MD, MS
-  -Tom Peterman, MD, MSc
-  -Kimberly Johnson, MS
-  -Robin Hennessy, MPH
-  -James Matthias, MPH-
-  -Craig Wilson
-  -Ninad Mishra, MD, MS
-  -Hillard Weinstock MD, MPH.
+  * Tom Peterman, MD, MSc
+  * Kimberly Johnson, MS
+  * Robin Hennessy, MPH
+  * James Matthias, MPH-
+  * Craig Wilson
+  * Ninad Mishra, MD, MS
+  * Hillard Weinstock MD, MPH.
 
 The GitHub repository was set up by:
--Saugat Karki, MD, MS
--Matthew Pooser, MS
+* Saugat Karki, MD, MS
+* Matthew Pooser, MS
 
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------
 Contributions made by people who helped create this repo.
