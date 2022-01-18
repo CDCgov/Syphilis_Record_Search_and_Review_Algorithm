@@ -12,7 +12,7 @@ Reactor grids, however, are widely acknowledged to be unreliable and have shown 
 
 ![algorithm image](https://github.com/CDCgov/Syphilis_Record_Search_and_Review_Algorithm/blob/master/algorithm_manuscript_revised.png)
 
-The goal of this GitHub repository is to serve as the one-stop location for public health agencies and technology vendors to test and implement this algorithm. Please contact Saugat Karki (SKarki@cdc.gov) for further discussion and any technical assistance from the Centers for Disease Control and Prevention.
+The goal of this GitHub repository is to serve as the one-stop location for public health agencies and technology vendors to test and implement this algorithm. Please contact Saugat Karki (SKarki@cdc.gov) for further discussion, or if any technical assistance is required from the Centers for Disease Control and Prevention.
 
 This remains to be a continuous work in progress, please let us know if you find any errors or would like to discuss any changes. 
 ## Dependencies
