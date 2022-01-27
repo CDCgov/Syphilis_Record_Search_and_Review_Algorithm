@@ -17,7 +17,7 @@ The goal of this GitHub repository is to serve as the one-stop location for publ
 This remains to be a continuous work in progress, please let us know if you find any errors or would like to discuss any changes. 
 ## Dependencies
 
-There are 3 Python libraries necessary for this Jupyter Notebook include the following:
+There are 3 Python libraries necessary for this Jupyter Notebook which include the following:
 
 * Pandas
 * Numpy
