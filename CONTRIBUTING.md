@@ -1,2 +1,2 @@
 # Welcome!
-We currently do not accept pull requests for this repository. If you believe errors exist somewhere, please contact Saugat Karki ([SKarki@cdc.gov](mailto:SKarki@cdc.gov)).
+We currently do not accept pull requests for this repository. If you believe errors exist somewhere, please contact the Divison of STD Prevention ([std_surv_inquiry@cdc.gov](mailto:std_surv_inquiry@cdc.gov)).

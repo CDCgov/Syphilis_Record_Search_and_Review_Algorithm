@@ -2,7 +2,11 @@
 
 **General disclaimer** This repository was created for use by CDC programs to collaborate on public health related projects in support of the [CDC mission](https://www.cdc.gov/about/organization/mission.htm).  GitHub is not hosted by the CDC, but is a third party website used by CDC and its partners to share information and collaborate on software. CDC use of GitHub does not imply an endorsement of any one particular service, product, or enterprise. 
 
+---
 
+The __Syphilis Record Search and Review Algorithm__ is being updated to reflect the new CSTE Syphilis Case Definition. The content shown here is being shared for archival/informational purposes only.  Please contact std_surv_inquiry@cdc.gov should you have any questions.
+
+---
 
 ## Overview
 
@@ -12,7 +16,7 @@ Reactor grids, however, are widely acknowledged to be unreliable and have shown 
 
 ![algorithm image](https://github.com/CDCgov/Syphilis_Record_Search_and_Review_Algorithm/blob/master/algorithm_manuscript_revised_final.png)
 
-The goal of this GitHub repository is to serve as the one-stop location for public health agencies and technology vendors to test and implement this algorithm. Please contact Saugat Karki (SKarki@cdc.gov) for further discussion, or if any technical assistance is required from the Centers for Disease Control and Prevention.
+The goal of this GitHub repository is to serve as the one-stop location for public health agencies and technology vendors to test and implement this algorithm. Please contact CDC Division of STD Prevention (std_surv_inquiry@cdc.gov) for further discussion, or if any technical assistance is required from the Centers for Disease Control and Prevention.
 
 This remains to be a continuous work in progress, please let us know if you find any errors or would like to discuss any changes. 
 ## Dependencies
@@ -80,7 +84,7 @@ and [Code of Conduct](https://github.com/CDCgov/template/blob/master/code-of-con
 For more information about CDC's privacy policy, please visit [http://www.cdc.gov/other/privacy.html](https://www.cdc.gov/other/privacy.html).
 
 ## Contributing Standard Notice
-Please contact SKarki@cdc.gov if you would like to suggest any changes. 
+Please contact std_surv_inquiry@cdc.gov if you would like to suggest any changes. 
 
 All comments, messages, pull requests, and other submissions received through
 CDC including this GitHub page may be subject to applicable federal law, including but not limited to the Federal Records Act, and may be archived. Learn more at [http://www.cdc.gov/other/privacy.html](http://www.cdc.gov/other/privacy.html).
